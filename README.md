@@ -14,7 +14,7 @@
 
 ## :book: About me
 
-- Currently Working as a Software Development Engineer at Tesco
+- Currently Working as a Software Development Engineer at Lowes
 
 <h3 align="left">Programming:</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
