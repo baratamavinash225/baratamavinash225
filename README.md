@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Avinash</h1>
-<h3 align="center">A passionate Data, Backend and ML Engineer from India</h3>
+<h3 align="center">A passionate Data, Backend, Cloud and ML Engineer</h3>
 
 <div align="center"> 
   <a href="mailto:baratamavinash225@gmail.com">
