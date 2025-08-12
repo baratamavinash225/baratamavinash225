@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Avinash</h1>
-<h3 align="center">A passionate Data, Backend, Cloud and ML Engineer</h3>
+<h3 align="center">A passionate Data, Backend and ML Engineer from India</h3>
 
 <div align="center"> 
   <a href="mailto:baratamavinash225@gmail.com">
@@ -26,6 +26,19 @@
 - **Software Development Engineer**  
   [Lowes](https://www.lowes.com)  
   _Data, Backend, and ML Engineering_
+
+---
+
+## ☁️ Cloud Platforms & Services
+
+**Google Cloud Platform (GCP):**  
+GCS, BigQuery, Composer, Dataproc, Vertex AI
+
+**Azure:**  
+ADLS, ADFS, Databricks
+
+**Amazon Web Services (AWS):**  
+SNS, SQS, S3, EventBridge, EKS, EMR
 
 ---
 
@@ -103,17 +116,6 @@
 </a>
 <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
-</a>
-
----
-
-## ☁️ Cloud & Data Engineering
-
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-</a>
-<a href="https://grafana.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
 </a>
 
 ---
